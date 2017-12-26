@@ -1,1 +1,10 @@
 # qa_auto_5_lr2_mmazur
+# Maven
+target/
+
+# IntelliJ project files
+*.iml
+*.iws
+*.ipr
+.idea/
+
